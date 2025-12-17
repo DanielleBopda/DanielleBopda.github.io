@@ -1,0 +1,15 @@
+title: Danielle C. Bopda
+description: >-
+  Data Scientist & Business Analytics | Healthcare • Cybersecurity • Fintech | Bridging USA &
+  Africa
+theme: minima
+author: Danielle C. Bopda
+linkedin_username: daniellecbopda
+github_username: DanielleBopda
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - about.md
+  - contact.md
+permalink: pretty
