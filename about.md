@@ -18,4 +18,4 @@ Beyond analytics, I’m dedicated to helping previous generations adopt technolo
 - **Storytelling & Education:** Share my journey and insights through media platforms to educate and inspire others.
 - **Career Growth:** Secure a data‑driven role that allows me to apply my skills and continue learning.
 
-Thanks for visiting my portfolio. let’s connect and make an impact together!
+Thanks for visiting my portfolio. Let’s connect and make an impact together!
