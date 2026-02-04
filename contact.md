@@ -7,7 +7,7 @@ title: Contact
 
 I'm always excited to connect with like‑minded professionals, collaborators, and recruiters interested in data science, business analytics, and bridging technology and social impact.
 
-- **LinkedIn:** [linkedin.com/in/daniellecbopda](https://www.linkedin.com/in/daniellecbopda)
+- **LinkedIn:** [linkedin.com/in/daniellebopda](https://www.linkedin.com/in/daniellebopda)
 - **GitHub:** [github.com/DanielleBopda](https://github.com/DanielleBopda)
 - **Email:** [daniellecbopda@gmail.com](mailto:daniellecbopda@gmail.com) *(please update with your preferred address)*
 
