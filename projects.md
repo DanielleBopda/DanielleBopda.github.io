@@ -32,7 +32,7 @@ Each project below illustrates how I tackle real‑world problems end‑to‑end
 
 **Problem:** Traditional credit models maximize accuracy but can encode bias, excluding creditworthy customers and increasing regulatory risk.  
 **Approach:** Evaluated logistic regression, neural networks and random forests on original and fairness‑optimized datasets. Measured both performance and fairness metrics, implementing threshold optimization and bias mitigation techniques to align with regulatory standards.  
-**Impact:** Demonstrated that fairness‑aware preprocessing can improve economic outcomes and reduce bias without sacrificing profitability, providing an auditable, deployable framework for responsible lending】.  
+**Impact:** Demonstrated that fairness‑aware preprocessing can improve economic outcomes and reduce bias without sacrificing profitability, providing an auditable, deployable framework for responsible lending.  
 **Tech:** Python, Pandas, Scikit‑learn, Fairness evaluation, Explainability (e.g., SHAP), Financial analysis.  
 👉 Repo: [Fairness‑Optimized‑Credit‑Modeling‑Responsible‑AI‑Fintech](https://github.com/DanielleBopda/Fairness-Optimized-Credit-Modeling-Responsible-AI-Fintech)
 
@@ -48,7 +48,7 @@ Each project below illustrates how I tackle real‑world problems end‑to‑end
 
 ---
 
-## 🩺 Diabetes Forecasting with Support Vector Machines | Healthcare Analytics
+## 🩺 Diabetes Forecasting | Healthcare Analytics
 
 **Problem:** Diabetes affects hundreds of millions worldwide. Early prediction enables timely intervention and better outcomes.  
 **Approach:** Applied SVM classifiers to the Pima Indians Diabetes Database. Conducted data cleaning, EDA, feature scaling, and hyperparameter tuning.  
